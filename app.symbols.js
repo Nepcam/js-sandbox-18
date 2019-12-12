@@ -27,4 +27,4 @@ myObj.key4 = 'Prop4';
 // }
 
 // Symbols are ignored by JSON.stringify
-console.log(JSON.stringify({ key: 'prop' }));
+// console.log(JSON.stringify({ key: 'prop' }));
